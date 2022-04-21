@@ -15,5 +15,8 @@
 	"Tx": "Tx",
 	"$": "$",
 	"From": "From",
-	"Coinbase Transactions": "Coinbase Transactions"
+	"Coinbase Transactions": "Coinbase Transactions",
+	"Smart Contracts": "Smart Contracts",
+	"Smart contract": "Smart contract",
+	"Contract code": "Contract code"
 }
